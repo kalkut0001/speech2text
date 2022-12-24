@@ -1,0 +1,59 @@
+<html lang="en" class=""><head>
+
+  <meta charset="UTF-8">
+  <title>CodePen Demo</title>
+
+  <meta name="robots" content="noindex">
+
+  <link rel="shortcut icon" type="image/x-icon" href="https://cpwebassets.codepen.io/assets/favicon/favicon-aec34940fbc1a6e787974dcd360f2c6b63348d4b1f4e06c77743096d55480f33.ico">
+  <link rel="mask-icon" href="https://cpwebassets.codepen.io/assets/favicon/logo-pin-8f3771b1072e3c38bd662872f6b673a722f4b3ca2421637d5596661b4e2132cc.svg" color="#111">
+  <link rel="canonical" href="https://codepen.io/Nishith/pen/ZxGBew">
+
+  
+  
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+
+  
+
+  
+<script src="https://cpwebassets.codepen.io/assets/editor/iframe/iframeConsoleRunner-6bce046e7128ddf9391ccf7acbecbf7ce0cbd7b6defbeb2e217a867f51485d25.js"></script>
+<script src="https://cpwebassets.codepen.io/assets/editor/iframe/iframeRefreshCSS-550eae0ce567d3d9182e33cee4e187761056020161aa87e3ef74dc467972c555.js"></script>
+<script src="https://cpwebassets.codepen.io/assets/editor/iframe/iframeRuntimeErrors-4f205f2c14e769b448bcf477de2938c681660d5038bc464e3700256713ebe261.js"></script>
+<style type="text/css" class="INLINE_PEN_STYLESHEET_ID">body{
+			font-family: Open Sans;
+		}
+		#result{
+			height: 200px;
+			border: 1px solid #ccc;
+			padding: 10px;
+			box-shadow: 0 0 10px 0 #bbb;
+			margin-bottom: 30px;
+			font-size: 14px;
+			line-height: 25px;
+		}
+		button{
+			font-size: 20px;
+			position: absolute;
+			top: 240px;
+			left: 50%;
+		}</style></head>
+
+<body>
+  
+
+	<title>Speech to text Converter</title>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+	<h3 align="center">Speech to text converter JavaScript</h3>
+	<div id="result"></div>
+	<button onclick="startConverting();"><i class="fa fa-microphone btn btn-danger" aria-hidden="true"></i></button>
+
+
+  
+<script src="https://cpwebassets.codepen.io/assets/common/stopExecutionOnTimeout-2c7831bb44f98c1391d6a4ffda0e1fd302503391ca806e7fcc7b9b87197aec26.js"></script>
+  <script src="https://cdpn.io/cpe/boomboom/pen.js?key=pen.js-1ef34d57-e051-9cd7-52e8-1eb60463a3b4" crossorigin=""></script>
+
+
+</body></html>
